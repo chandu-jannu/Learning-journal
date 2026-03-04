@@ -30,6 +30,20 @@
 - SVG manipulation with JavaScript
 - GitHub Pages deployment
 
+-  **Challenges Faced:**
+- **Implementing Dijkstra's Algorithm**- First working with graph algorithm had to understand shortest path logic and translate into working     code
+- **SVG manipulation** - Learning how to dynamically create and animate SVG elements with JavaScript was complex
+- **Graph Data Structure** - Designing the weighted graph with bidirectional connections required careful planning to avoid bugs
+- **Path Visualization** - making the animated route line appear smoothly along the correct path took multiple iterations
+- **Debugging Route Calculations** - Some paths weren't calculating correctly; had to trace through the algorithm step-by-step to find the       issue
+
+**How I Solved It:**
+- Studied Dijkstra's algorithm concept first, then broke it down into smaller functions
+- Practiced with simple SVG examples before building the full map
+- Drew the campus graph on paper first to visualize connections
+- Used console.log extensively to debug and verify each step
+- Tested with different start/end points to ensure all routes worked correctly
+
 **Repository:** [campus-navigator](https://github.com/chandu-jannu/campus-navigator)  
 **Live Demo:** [View Live](https://chandu-jannu.github.io/campus-navigator)
 
