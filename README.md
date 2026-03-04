@@ -30,7 +30,7 @@
 - SVG manipulation with JavaScript
 - GitHub Pages deployment
 
--  **Challenges Faced:**
+ **Challenges Faced:**
 - **Implementing Dijkstra's Algorithm**- First working with graph algorithm had to understand shortest path logic and translate into working     code
 - **SVG manipulation** - Learning how to dynamically create and animate SVG elements with JavaScript was complex
 - **Graph Data Structure** - Designing the weighted graph with bidirectional connections required careful planning to avoid bugs
