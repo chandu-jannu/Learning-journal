@@ -1,6 +1,6 @@
 # 📚 My Learning Journal
 
-## Day 1 - February 19, 2026
+## Day 1 - February 9, 2026
 **Project:** Mini Chrome Dashboard
 
 **What I Built:**
