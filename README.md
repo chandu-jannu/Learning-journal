@@ -1,6 +1,6 @@
 # 📚 My Learning Journal
 
-## Day 1 - February 9, 2026
+## project 1 - February 9, 2026
 **Project:** Mini Chrome Dashboard
 
 **What I Built:**
@@ -14,7 +14,7 @@
 
 ---
 
-## Day 2 - March 4, 2026
+## project 2 - March 4, 2026
 **Project:** Campus Navigator
 
 **What I Built:**
@@ -48,6 +48,19 @@
 **Live Demo:** [View Live](https://chandu-jannu.github.io/campus-navigator)
 
 ---
+
+## Project 3 -  March 23, 2026
+**Project:** Activity-log
+
+**What I Built:**
+A full stack personal productivity web app with:
+- task planner with Daily/Weekly/Monthly Catagories
+- Health tracker - water, supplements, routine, mood, journal
+- Meditation timer
+- Weather widget
+- Dark/light theme
+- Google login
+
 
 ## 🛠️ Skills Progress
 
