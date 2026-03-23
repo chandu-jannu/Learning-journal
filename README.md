@@ -91,9 +91,9 @@ A full stack personal productivity web app with:
 - env.local for local secretes. Never push to github
 
 ### Deployment
-- vercel for hosting and serverless function
+- vercel for hosting and serverless functions
 - 'npx vercel ---prod' to deploy from terminal
-- Github for code backup
+- Github for code backup - keeping secrets out of repo
 ---
 
 ## 🛠️ Skills Progress
