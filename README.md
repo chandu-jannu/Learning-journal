@@ -69,7 +69,11 @@ A full stack personal productivity web app with:
 - localStorage to store data in browser
 - DOM manipulation — creating, appending, removing elements
 - setInterval for live clock and notification checks
-- 
+
+### Firebase
+- Google OAuth login with `signInWithPopup`
+- `onAuthStateChanged` to check login state
+- Firestore NoSQL database — saving data per user and per device
 ---
 
 ## 🛠️ Skills Progress
