@@ -95,6 +95,13 @@ A full stack personal productivity web app with:
 - 'npx vercel ---prod' to deploy from terminal
 - Github for code backup - keeping secrets out of repo
 - **Live demo:** [view Live](https://my-activity-log.vercel.app)
+  
+  ## Key Lessons
+- 'localStorage' is browser only — data doesn't sync across devices
+- FCM token is device specific — each phone/laptop gets its own
+- Frontend code is always visible — real security is server-side rules
+- Small CSS mistakes like `transition: all` can cause big performance issues
+  
 ---
 
 ## 🛠️ Skills Progress
