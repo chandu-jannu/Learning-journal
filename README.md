@@ -93,7 +93,7 @@ A full stack personal productivity web app with:
 ### Deployment
 - vercel for hosting and serverless function
 - 'npx vercel ---prod' to deploy from terminal
-- Github for code backup. 
+- Github for code backup
 ---
 
 ## 🛠️ Skills Progress
