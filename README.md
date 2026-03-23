@@ -94,6 +94,7 @@ A full stack personal productivity web app with:
 - vercel for hosting and serverless functions
 - 'npx vercel ---prod' to deploy from terminal
 - Github for code backup - keeping secrets out of repo
+- **Live demo:** [view Live](https://my-activity-log.vercel.app)
 ---
 
 ## 🛠️ Skills Progress
