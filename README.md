@@ -74,6 +74,8 @@ A full stack personal productivity web app with:
 - Google OAuth login with `signInWithPopup`
 - `onAuthStateChanged` to check login state
 - Firestore NoSQL database — saving data per user and per device
+- FCM push notifications — each device has its own token
+- VAPID keys for web push
 ---
 
 ## 🛠️ Skills Progress
