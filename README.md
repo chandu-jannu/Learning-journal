@@ -89,7 +89,11 @@ A full stack personal productivity web app with:
 - Firebase authorised domains
 - Firestore security rules only logged in users can read
 - env.local for local secretes. Never push to github
-- 
+
+### Deployment
+- vercel for hosting and serverless function
+- 'npx vercel ---prod' to deploy from terminal
+- Github for code backup. 
 ---
 
 ## 🛠️ Skills Progress
