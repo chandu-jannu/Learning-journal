@@ -76,6 +76,12 @@ A full stack personal productivity web app with:
 - Firestore NoSQL database — saving data per user and per device
 - FCM push notifications — each device has its own token
 - VAPID keys for web push
+
+  ### Backend
+- Vercel Serverless Functions — running server code without a server
+- Environment variables — hiding secrets from frontend
+- Fetching config from server instead of hardcoding in HTML
+- Cron jobs with cron-job.org to trigger notifications every minute
 ---
 
 ## 🛠️ Skills Progress
