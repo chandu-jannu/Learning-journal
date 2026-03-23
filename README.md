@@ -60,7 +60,17 @@ A full stack personal productivity web app with:
 - Weather widget
 - Dark/light theme
 - Google login
+- Push notification per device
+- Deployed live at my-activity-log.vercel.app
 
+## What I Learned:
+
+### Javascript
+- localStorage to store data in browser
+- DOM manipulation — creating, appending, removing elements
+- setInterval for live clock and notification checks
+- 
+---
 
 ## 🛠️ Skills Progress
 
