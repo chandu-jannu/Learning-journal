@@ -77,11 +77,19 @@ A full stack personal productivity web app with:
 - FCM push notifications — each device has its own token
 - VAPID keys for web push
 
-  ### Backend
+### Backend
 - Vercel Serverless Functions — running server code without a server
 - Environment variables — hiding secrets from frontend
 - Fetching config from server instead of hardcoding in HTML
 - Cron jobs with cron-job.org to trigger notifications every minute
+
+### Security
+- Never hardcode API keys in HTML
+- Restrict API keys to specific domains in Google Cloud
+- Firebase authorised domains
+- Firestore security rules only logged in users can read
+- env.local for local secretes. Never push to github
+- 
 ---
 
 ## 🛠️ Skills Progress
