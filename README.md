@@ -61,7 +61,7 @@ A full stack personal productivity web app with:
 - Dark/light theme
 - Google login
 - Push notification per device
-- Deployed live at my-activity-log.vercel.app
+- Deployed live at (https://my-activity-log.vercel.app)
 
 ## What I Learned:
 
