@@ -92,11 +92,15 @@ A full stack personal productivity web app with:
 
 ### Deployment
 - vercel for hosting and serverless functions
-- 'npx vercel ---prod' to deploy from terminal
+- Used 'npx vercel' to trigger the deployment pipeline instantly without needing to install the Vercel CLI globally.
 - Github for code backup - keeping secrets out of repo
 - **Live demo:** [view Live](https://my-activity-log.vercel.app)
   
-  ## Key Lessons
+### How to Run
+- Run npx vercel to generate a preview deployment.
+- Run 'npx vercel' --prod to deploy directly to production.(Using npx ensures you are always running the latest version of the Vercel CLI without polluting your global environment).
+  
+## Key Lessons
 - 'localStorage' is browser only — data doesn't sync across devices
 - FCM token is device specific — each phone/laptop gets its own
 - Frontend code is always visible — real security is server-side rules
@@ -108,16 +112,16 @@ A full stack personal productivity web app with:
 
 **HTML:** ✅ Completed  
 **CSS:** ✅ Completed  
-**JavaScript:** 🔄 In Progress (basics done, expanding knowledge)
+**JavaScript**: 🔄 In Progress (Basics mastered, leveling up)
 
 ---
 
 ## 🎯 Next Steps
 
-- Continue learning advanced JavaScript
+- Current Focus: Leveling up on advanced JavaScript concepts.
 - Build more interactive projects
 - Work with APIs
 
 ---
 
-**Last Updated:** March 4, 2026
+**Last Updated:** june 23, 2026
